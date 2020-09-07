@@ -1,4 +1,4 @@
-## Orlando City Soccer Club - A Deyvid Project
+## Orlando City Soccer Club
 
 ## English:
 Orlando City is a personal project, in which I put my web development skills into practice. This is not a copy or anything. I just started my studies recently and wanted to practice a little. I managed to build this website with the help of HCODE from Udemy. Without them, I wouldn't have made it this far. Now I am looking for new adventures.
