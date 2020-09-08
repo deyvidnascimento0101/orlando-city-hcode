@@ -1,5 +1,9 @@
 ## Orlando City Soccer Club
 
+![orlandocity-desktop-1.jpeg](https://github.com/dwyvid1/orlando-city/blob/master/orlandocity-desktop-1.jpeg)
+![orlandocity-desktop-2.jpeg](https://github.com/dwyvid1/orlando-city/blob/master/orlandocirty-desktop-2.jpeg)
+![orlandocity-desktop-3.jpeg](https://github.com/dwyvid1/orlando-city/blob/master/orlandocirty-desktop-3.jpeg)
+
 ## English:
 Orlando City is a personal project, in which I put my web development skills into practice. This is not a copy or anything. I just started my studies recently and wanted to practice a little. I managed to build this website with the help of HCODE from Udemy. Without them, I wouldn't have made it this far. Now I am looking for new adventures.
 
